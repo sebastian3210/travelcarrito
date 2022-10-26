@@ -1,0 +1,51 @@
+[{
+    "id": 0,
+    "destino" : "Madrid", 
+    "tarifa" : 900,
+    "origen" : "Buenos Aires",
+    "img": "../img/madrid.jpg",
+    "tarifaTotal": 0
+  
+    },
+{   "id": 1,
+    "destino": "Paris",  
+    "tarifa" : 1100,
+    "origen" : "Buenos Aires",
+    "img": "../img/paris.jpg",
+    "tarifaTotal": 0
+  
+},
+{   "id": 2,
+    "destino": "Miami",
+    "tarifa" : 700,
+    "origen" : "Buenos Aires",
+    "img": "../img/miami.jpg",
+    "tarifaTotal": 0
+    
+
+},
+{   "id": 3,
+    "destino": "Londres",
+    "tarifa" : 1300,
+    "origen" : "Buenos Aires",
+        "img": "../img/londres.jpg",
+    "tarifaTotal": 0
+  
+},
+{   "id": 4,
+    "destino": "China",
+    "tarifa" : 2000,
+    "origen" : "Buenos Aires",
+    "img": "../img/hongkong.jpg",
+    "tarifaTotal": 0
+
+},
+{   "id": 5,
+    "destino": "Roma",
+    "tarifa" : 1150,
+    "origen" : "Buenos Aires",
+    "img": "../img/roma.jpg",
+    "tarifaTotal": 0
+
+}
+]
